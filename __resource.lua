@@ -9,7 +9,7 @@ files{
     '/resources/lossantos.jpg',
     '/resources/anim_stripe.gif',
     '/resources/logo.png',
-    '/resources/Loading.ogg',
+    '/resources/Loading.mp3',
 }
 
 loadscreen 'index.html'
