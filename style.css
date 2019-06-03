@@ -1,0 +1,41 @@
+  /*-- // -------------------------- \\ --*/
+ /*-- // -- Made By DriFt Ragnarok -- \\ --*/
+/*-- // ------------------------------ \\ --*/
+
+body{
+    background-image: url(lossantos.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#logoimg{
+    width:196px;
+    height:196px;
+    position: absolute;
+    left:50%;
+    transform: translate(-50%);
+}
+
+#gif{
+    margin-top:98px;
+}
+
+#text h1{
+    font-size:55px;
+    color: cyan; /* <=== that you can change the color to whatever */
+}
+
+#text p{
+    font-size:25px;
+    font-weight: bolder;
+}
+
+#text{
+    margin-top:100px;
+    text-align:center;
+}
+
+#para{
+    margin-top:-25px;
+}
